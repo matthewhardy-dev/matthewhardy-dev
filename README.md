@@ -3,11 +3,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=Matthew%20Hardy&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Data%20Engineer%20%26%20Automation%20Developer&descSize=20&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Typing Animation -->
+<!-- Snake Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+data+pipelines+that+actually+work+%F0%9F%94%A7;Automating+everything+I+touch+%F0%9F%A4%96;AWS+%7C+Python+%7C+SQL+%7C+Cloud+Architecture+%E2%98%81%EF%B8%8F;Turning+raw+data+into+real+decisions+%F0%9F%93%8A" alt="Typing SVG" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake-dark.svg" />
+  </picture>
 </p>
 
 <!-- Social Badges -->
@@ -17,6 +19,13 @@
   <a href="https://d25l4zx8rl25fn.cloudfront.net"><img src="https://img.shields.io/badge/CloudFront_Dashboard-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
   <a href="https://matthewhardy-dev.github.io/projects.html"><img src="https://img.shields.io/badge/Projects-7B2FF7?style=for-the-badge&logo=rocket&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=matthewhardy-dev&style=for-the-badge&color=00d4ff" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Building+data+pipelines+that+actually+work+%F0%9F%94%A7;Automating+everything+I+touch+%F0%9F%A4%96;AWS+%7C+Python+%7C+SQL+%7C+Cloud+Architecture+%E2%98%81%EF%B8%8F;Turning+raw+data+into+real+decisions+%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -96,18 +105,6 @@ motto: "If I have to do it twice, I automate it."
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=matthewhardy-dev&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" width="100%" />
-</p>
-
----
-
-## 🐍 Snake Animation
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/matthewhardy-dev/matthewhardy-dev/output/github-snake-dark.svg" />
-  </picture>
 </p>
 
 ---
